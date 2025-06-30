@@ -148,4 +148,5 @@ export const currency_list = [
         ["ZWL", "Zimbabwean Dollar (2009)"]
 ];
 
-export const api = "7643a9379eac5ef74dfef2d6";
+export const api = "xx";
+
